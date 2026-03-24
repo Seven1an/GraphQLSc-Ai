@@ -18,11 +18,11 @@ GitHub：https://github.com/Seven1an/GraphQLSc-Ai
 
 演示用的是Magento系统
 
- ![image-20260324145008573](.\img\image-20260324145008573.png)
+ ![image-20260324145008573](./img/image-20260324145008573.png)
 
- ![image-20260324145114851](.\img\image-20260324145114851.png)
+ ![image-20260324145114851](./img/image-20260324145114851.png)
 
- ![image-20260324150228258](.\img\image-20260324150228258.png)
+ ![image-20260324150228258](./img/image-20260324150228258.png)
 
 ## 功能特性
 
